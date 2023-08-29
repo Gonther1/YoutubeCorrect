@@ -13,7 +13,7 @@ const construirMainHead = async () => {
         console.log(a)
         domElement.insertAdjacentHTML('beforeend', /* html */`
             <div class="vid-list">
-            <a href=""><img src="images/thumbnail${++a}.png" class="thumbnail"></a>
+            <a href="second.html"><img src="images/thumbnail${++a}.png" class="thumbnail"></a>
             <div class="flex-div">
                 <img src="images/Jack.png">
                 <div class="vid-info">
