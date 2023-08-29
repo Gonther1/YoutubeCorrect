@@ -191,4 +191,7 @@ nav {
     .logo {
         width: 90px;
     }
+    .banner {
+        display: none;
+    }
 }
