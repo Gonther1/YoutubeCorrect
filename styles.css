@@ -227,3 +227,7 @@ nav {
 .side-video-list .vid-info {
     flex-basis: 49%;
 }
+.play-video .tags a {
+    color: #0000ff;
+    font-size: 13px;
+}
