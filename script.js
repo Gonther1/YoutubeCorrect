@@ -17,7 +17,7 @@ const construirMainHead = async () => {
             <div class="flex-div">
                 <img src="images/Jack.png">
                 <div class="vid-info">
-                    <a href="">Best channel to learn coding thath help you to be a web developer</a>
+                    <a href="second.html">Best channel to learn coding thath help you to be a web developer</a>
                     <p>Easy Tutorials</p>
                     <p>15k Views &bull; 2 days</p>
                 </div>
@@ -29,18 +29,18 @@ const construirMainHead = async () => {
 const fillRightSidebar = async () => {
     let domElement = document.querySelector('.right-sidebar')
     let a=0
-    for (let i = 0; i < 9; i++) {
+    for (let i = 0; i < 8; i++) {
         a>=8 ? a=0 :
         console.log(a)
         domElement.insertAdjacentHTML('beforeend', /* html */`
-            <div class="side-video-list">
-                <a href="" class="small-thumbnail"><img src="images/thumbnail${++a}.png"></a>
-                <div class="vid-info">
-                    <a href="">Best channel that help you to be a web developer</a>
-                    <p>Easy Tutorials</p>
-                    <p>15k Views</p>
-                </div>
+        <div class="side-video-list">
+            <a href="" class="small-thumbnail"><img src="images/thumbnail${++a}.png"></a>
+            <div class="vid-info">
+                <a href="">Best channel that help you to be a web developer</a>
+                <p>Easy Tutorials</p>
+                <p>15k Views</p>
             </div>
+        </div>     
         `)
     }
 }
