@@ -1,6 +1,7 @@
 let menuIcon= document.querySelector(".menu-icon");
 let sidebar= document.querySelector(".sidebar");
 let container= document.querySelector(".container");
+
 menuIcon.onclick= function(){
     sidebar.classList.toggle("small-sidebar");
     container.classList.toggle("large-container");
@@ -10,7 +11,6 @@ const construirMainHead = async () => {
     let a=0
     for (let i = 0; i < 24; i++) {
         a>=8 ? a=0 :
-        console.log(a)
         domElement.insertAdjacentHTML('beforeend', /* html */`
             <div class="vid-list">
             <a href="second.html"><img src="images/thumbnail${++a}.png" class="thumbnail"></a>
@@ -31,7 +31,6 @@ const fillRightSidebar = async () => {
     let a=0
     for (let i = 0; i < 8; i++) {
         a>=8 ? a=0 :
-        console.log(a)
         domElement.insertAdjacentHTML('beforeend', /* html */`
         <div class="side-video-list">
             <a href="" class="small-thumbnail"><img src="images/thumbnail${++a}.png"></a>
@@ -46,7 +45,4 @@ const fillRightSidebar = async () => {
 }
 construirMainHead()
 fillRightSidebar()
-// ${peticionJson.main.sectionHead.parrafo.map((value) => `
-// <img src=" ${value.imagen} " class="me-2" style="width: 2vh; filter: invert(100%) sepia(0%) saturate(1%) hue-rotate(72deg) brightness(104%) contrast(101%);" alt=""> ${value.texto} <br>
-// `).join(" ")
-// }
+
