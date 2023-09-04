@@ -1261,5 +1261,136 @@
         }
       }
     ],
+    "channelInfo":{
+      "artistBio": null,
+      "avatar": [
+        {
+          "height": 48,
+          "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s48-c-k-c0x00ffffff-no-rj",
+          "width": 48
+        },
+        {
+          "height": 88,
+          "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88
+        },
+        {
+          "height": 176,
+          "url": "https://yt3.googleusercontent.com/ytc/AOPolaRQMdTorx40VODGGitv_bCo4G_Dr6eFvmBuma3G=s176-c-k-c0x00ffffff-no-rj",
+          "width": 176
+        }
+      ],
+      "badges": [],
+      "banner": {
+        "desktop": [
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1060
+          },
+          {
+            "height": 188,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1138
+          },
+          {
+            "height": 283,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1707
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          },
+          {
+            "height": 377,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2276
+          },
+          {
+            "height": 424,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+            "width": 2560
+          }
+        ],
+        "mobile": [
+          {
+            "height": 88,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w320-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+            "width": 320
+          },
+          {
+            "height": 175,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+            "width": 640
+          },
+          {
+            "height": 263,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w960-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+            "width": 960
+          },
+          {
+            "height": 351,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1280-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1280
+          },
+          {
+            "height": 395,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1440-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+            "width": 1440
+          }
+        ],
+        "tv": [
+          {
+            "height": 180,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w320-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+            "width": 320
+          },
+          {
+            "height": 480,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w854-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+            "width": 854
+          },
+          {
+            "height": 720,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1280-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+            "width": 1280
+          },
+          {
+            "height": 1080,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w1920-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+            "width": 1920
+          },
+          {
+            "height": 1192,
+            "url": "https://yt3.googleusercontent.com/U8q69ie6XQRjZPi7Qj_X2G2xr2LSjnFzUkoRVTsL7chIimkxW3_nvas3sKWqXPf62aWGe5vjmW8=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+            "width": 2120
+          }
+        ]
+      },
+      "canonicalBaseUrl": "/@creativecode787",
+      "channelId": "UC8fkwsjcI_MhralEX1g4OBw",
+      "country": "Colombia",
+      "description": "",
+      "hasBusinessEmail": false,
+      "joinedDate": "2020-06-29",
+      "joinedDateText": "Joined Jun 29, 2020",
+      "keywords": [
+        "Uniy3D",
+        "C#",
+        "Programacion"
+      ],
+      "links": [],
+      "stats": {
+        "subscribers": 495,
+        "subscribersText": "495 subscribers",
+        "videos": 419,
+        "videosText": "419 videos",
+        "views": 35184
+      },
+      "title": "CreativeCode",
+      "username": "@creativecode787"
+    },
     "cursorNext": "4qmFsgK1ChIYVUM4Zmt3c2pjSV9NaHJhbEVYMWc0T0J3GpgKOGdiT0J4ckxCM3JJQndyREJ3cWFCME55UVVaRFoxSnBXRE5TY2tWeFkwWkJVMnhtWlRkU2RrMHhMVTlsU0dwcFpVWXpYMUpXU0UxSlVGbDROMngyVkdGdFQyRnRUbXhvWkRWM1dHZHpURlpuWlRnemRWcE1hazAxUVZwaWNXaHRNRGR5T1hOMVVHSkpZbGMwUkZCT1dIaERibkJsY0dkQlFtdFVaMUpPTjFST2RtMVdlalZ2UkdWQmVXb3dNVFJwU205ZlVqZHBhVEJTU2s1WU1FZEtWM0F4T1VWMWQwVmxia3hwVTFGelZtOXBiVmwyZERaUVVYWjNZbGQ0Y2paT1IyMUVWVmswZURSUWREWlJSRlZRYWtabVRrVTFSbFZuZVZWTFIxZ3dNVUpFY0dWblpVdE1jVFV4V1RaTk1EUnFlazlUVVRKR2VqZEhjbDlaYzNSbU9UVnROMnhCVGsxd2JGRm5NbmhwVUd0T1kwYzBaazVEZFhoaFdHeFVOV2w1Wm1vMFdERXlYM1pvVTNRNVUwODBNRTFVV1U1eU5URjRUVkF4T0c1WVdWSktNMlJhVEUxaU0wZGxXRlE0TjE5bFNVaFFNRWs0VG10NFdHbHhiWFZXTkU4MmVVaDRNMVpYZWpoUmRHdEJRV1J4U1VOc05FVmxUM3BVY3pOclJHUlFYMnBOYlVOWE1scFJWbFp5WTA5RU5sVXpVVlkyV1dneWJVc3hOMG80ZWt4cWJYSk1VVFE0ZWxCak5TMU9PVTh0TVVSeExVTXRTSG90ZFdvdFlYVTNjRmwyZFVKUWVWOTFkVE0yWVhaS2FqWk1TamhSVlVOdloySmhaa2R1UmxWSWQzRlpaMG96V0RKWGNpMXVWbk50Y2pWS1Z6ZGhWVXRYWm1WTk1YRnhRV1l3U0RaYVp6WnNkbEZwZUhNNFlUUk1ZMmx6TW1KNGF6azVVRUowY1ZoeFRGOUxVbE41WVZCbWJqWTVVVXhOZFhOblNrOHhlbFozWkROS1FWUlJNM0pMV0VzeFFuWlNha1pCZEZobVpTMTRkMFZ6Y0RKR2FGcGpOR2xKZFRWbWRsOURSR05pZDE5NVdqZDNkbTgwUkVkTlVtOXRUVFZzUW5seWIwUTBiWFl3T0d0bWFtVlBkRkZMVTJkaFJITk5lWHBNZEhOVlYwNXpSVGR4UWw5ak5TMDRhekpqWTJoQlFtWmFhV1EyYzJ0Q1pWZDNMV3BxZG05bGNEbG1PRjh5TVdocldXUmpPVzl0VnpCMFFXNWtURFZ1UVdFd1MxQlNPVm96WjI1dFNscEJPRkpKTm0xaFIzY3hNbEl0WW10SGIxUXhNM2xZWDIxeVpGSnpkRms0TFVSeWNVSXlNbTVXVDFsbk16Tk9jbloxUTJkTlgzUmxXRlo2UW1saGVETllWblUwZDFreldsWk1ObXN4VFRkUVVsQTRNMmhxVEVOUFdsVm9iMjkyV1hoSVRYTlRNMUF0UjFWTVVtdGxVamRtZEVOSk1tczBNblZuY2kxNlQyYzFkREIzTlcxbVpEQm1hVFpwV200M2EwVmZhMnAyUTFOd09DMDVVRkZHVEdsTGRHcDVWVXhEU0RGRWVreHBUMHBqYzB0UmJUaGtjbVZRYzB3NFYwVnJaMXBXVWpWeFdpMWtaM2R1TWtFU0pEWTBaakZrTnpVMkxUQXdNREF0TWpVeU5TMDROekl3TFRVNE1qUXlPV05tTXpkak5CZ0I%3D"
   }
