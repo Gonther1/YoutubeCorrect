@@ -212,7 +212,7 @@ nav {
 }
 .play-video .video-iframe {
     width: 100%;
-    height: 65%;
+    height: 30%;
 }
 .video-iframe iframe {
     width: 100%;
@@ -308,11 +308,9 @@ nav {
 @media (max-width:900px) {
     .play-video {
         flex-basis: 100%;
-        margin-bottom: 50%;
     }
     .right-sidebar {
         flex-basis: 100%;
-        margin-top: 50%;
     }
     .play-container {
         padding-left: 5%;

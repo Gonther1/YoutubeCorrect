@@ -1,7 +1,6 @@
 let menuIcon= document.querySelector(".menu-icon");
 let sidebar= document.querySelector(".sidebar");
 let container= document.querySelector(".container");
-
 menuIcon.onclick= function(){
     sidebar.classList.toggle("small-sidebar");
     container.classList.toggle("large-container");
@@ -20,10 +19,9 @@ fetch(rutaArchivoJSON)
         let domElement = document.querySelector('.list-container')
         let a=0
         for (let i = 0; i < 24; i++) {
-            a>=8 ? a=0 :
             domElement.insertAdjacentHTML('beforeend', /* html */`
                 <div class="vid-list">
-                <a href="second.html"><img src="${data['contents'][i]['video']['thumbnails'][0]['url']}" class="thumbnail"></a>
+                <a href="second.html" class="targets" ><img src="${data['contents'][i]['video']['thumbnails'][0]['url']}" class="thumbnail"></a>
                 <div class="flex-div">
                     <img src="${data['channelInfo']['avatar'][0]['url']}">
                     <div class="vid-info">
@@ -34,9 +32,31 @@ fetch(rutaArchivoJSON)
                 </div>
             </div>
             `)
+            // let targetActual=document.getElementById(`#target${i}`)
+            // targetActual.addEventListener('click', async function(){
+            //     let url=data['contents'][i]['video']['videoId']
+            //     console.log(url)
+            // })
+
+            
         }
     }
     construirMainHead()
+    let enlaces = document.getElementsByClassName("targets");
+    console.log(enlaces.length)
+    // Agrega un evento click a cada enlace
+    for (let i = 0; i < enlaces.length; i++) {
+        enlaces[i].addEventListener("click", function(event) {
+            // Previene el comportamiento por defecto del enlace (evitar que vaya a la URL)
+            event.preventDefault();
+            
+            // Identifica cuál enlace fue clickeado
+            var enlaceClickeado = event.target;
+            console.log(enlaceClickeado)
+            // Puedes acceder a la URL del enlace así: enlaceClickeado.href
+            console.log("El enlace clickeado fue: " + enlaceClickeado.innerHTML);
+        });
+    }
   })
   .catch(error => {
     console.error('Error al cargar el archivo JSON:', error);
