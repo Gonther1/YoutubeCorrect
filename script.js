@@ -42,21 +42,6 @@ fetch(rutaArchivoJSON)
         }
     }
     construirMainHead()
-    let enlaces = document.getElementsByClassName("targets");
-    console.log(enlaces.length)
-    // Agrega un evento click a cada enlace
-    for (let i = 0; i < enlaces.length; i++) {
-        enlaces[i].addEventListener("click", function(event) {
-            // Previene el comportamiento por defecto del enlace (evitar que vaya a la URL)
-            event.preventDefault();
-            
-            // Identifica cuál enlace fue clickeado
-            var enlaceClickeado = event.target;
-            console.log(enlaceClickeado)
-            // Puedes acceder a la URL del enlace así: enlaceClickeado.href
-            console.log("El enlace clickeado fue: " + enlaceClickeado.innerHTML);
-        });
-    }
   })
   .catch(error => {
     console.error('Error al cargar el archivo JSON:', error);
