@@ -21,7 +21,7 @@ fetch(rutaArchivoJSON)
         for (let i = 0; i < 24; i++) {
             domElement.insertAdjacentHTML('beforeend', /* html */`
                 <div class="vid-list">
-                <a href="second.html" class="targets" ><img src="${data['contents'][i]['video']['thumbnails'][0]['url']}" class="thumbnail"></a>
+                <a href="second.html"><img src="${data['contents'][i]['video']['thumbnails'][0]['url']}" class="thumbnail"></a>
                 <div class="flex-div">
                     <img src="${data['channelInfo']['avatar'][0]['url']}">
                     <div class="vid-info">
