@@ -6,6 +6,8 @@ menuIcon.onclick= function(){
     container.classList.toggle("large-container");
 }
 
+console.log("Hola mundo");
+
 // Ruta al archivo JSON
 const rutaArchivoJSON = 'channelVideos.json';
 
